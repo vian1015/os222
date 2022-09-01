@@ -3,9 +3,9 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10   L00 Gen, etc.
 ZCZC W00 20   L01 SCELE related
-ZCZC W00 100  L02 ZOOM meetings related
+ZCZC W00 200  L02 ZOOM meetings related
 ZCZC W00 40   L03 GitHub related
 ZCZC W00 40   L04 GitHub Pages related
 ZCZC W00 -    L05 QUIZ
 ZCZC W00 30   LO6 References/Books/Documents/Browsing/GSGS related
-ZCZC W00 120  L09 Weekly Assignments
+ZCZC W00 120  L09 Weekly Assignments  
