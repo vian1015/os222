@@ -14,5 +14,12 @@ ZCZC W01 20   L00 Gen, etc.
 ZCZC W01 20   L01 SCELE related
 ZCZC W01 200  L02 ZOOM meetings related
 ZCZC W01 10   L03 Github related
+ZCZC W01 15   L04 Github Pages related
 ZCZC W01 3    L05 QUIZ
-ZCZC W01 300  L09 Weekly Assignments    
+ZCZC W01 120  L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W01 300  L09 Weekly Assignments
+ZCZC W01 5    L41 TXT/mylog.txt related
+ZCZC W01 60   L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC W01 90   L73 Gaming including Board Games.
+ZCZC W01 60   L80 Watching: Movie, Youtube, TV, Netflix , etc.
+

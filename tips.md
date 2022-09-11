@@ -7,7 +7,6 @@ permalink: TIPS/
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [TIPS]({{ site.baseurl }}/TIPS/) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[TARBALL](SandBox/cbkadal.tar.xz) ---
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
