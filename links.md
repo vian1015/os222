@@ -17,7 +17,7 @@ permalink: LINKS/
 Undoubtedly one of the best website for debugging. If you experience any error or problems on your codes, Stack Overflow is the go to!
 
 2. [Linux From Scratch](https://www.linuxfromscratch.org/)<br>
-Gets you started to Linux. A very in-depth book!
+Gets you started to Linux. A very in-depth guide!
 
 3. [GeeksforGeeks](https://www.geeksforgeeks.org/)<br>
 A sweet website to learn a lot of things!
