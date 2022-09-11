@@ -2,7 +2,7 @@
 ---
 <span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
-![alt text](https://ezgif.com/images/loadcat.gif "Logo Title Text 1")
+![alt text](https://ezgif.com/images/loadcat.gif "ezgif.com's cat")
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [TIPS]({{ site.baseurl }}/TIPS/) ---
