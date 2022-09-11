@@ -1,6 +1,5 @@
 ---
-permalink: /TIPS/.
-title: TIPS
+permalink: TIPS/
 ---
 <span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
@@ -15,6 +14,7 @@ title: TIPS
 
 # TIPS
 Nothing to see here just yet,.. Come back some time later ~
+![alt text](https://ezgif.com/images/loadcat.gif "ezgif.com's cat")
 
 <br>
 <hr>
