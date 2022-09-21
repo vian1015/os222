@@ -7,6 +7,7 @@ permalink: LINKS/
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [TIPS]({{ site.baseurl }}/TIPS/) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
+[TARBALL](https://os.vlsm.org/Log/vian1015.tar.bz2.txt) ---
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
