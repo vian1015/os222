@@ -34,6 +34,12 @@ GnuPG documentation. A complete guide on GnuPG usage!
 7. [GnuPg Cheat Sheet](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/)<br>
 A cheat sheet for GnuPG. If you forgot gpg commands, this will help a lot!
 
+8. [Code Grepper](https://www.codegrepper.com/)<br>
+A website where you can find all sorts of codes. Sometimes the answer can be irrelevant, but it's always good to give it a try!
+
+9. [tutorialspoint](https://www.tutorialspoint.com/)<br>
+You can find a lot of materials about OS here. There are also some question example for you to try!
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
