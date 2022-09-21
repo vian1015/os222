@@ -12,7 +12,7 @@ permalink: LINKS/
 <hr>
 
 # LINKS
-
+## Week 01
 1. [Stack Overflow](https://stackoverflow.com/)<br>
 Undoubtedly one of the best website for debugging. If you experience any error or problems on your codes, Stack Overflow is the go to!
 
@@ -24,7 +24,7 @@ A sweet website to learn a lot of things!
 
 4. [W3Schcools](https://www.w3schools.com/)<br>
 Pretty similar to GeeksforGeeks, definitely very very helpful!
-
+## Week 02
 5. [Operating System Concepts - Tenth Edition](https://www.os-book.com/OS10/)<br>
 Gives you the basic and foundation of OS! This dinoasurs themed is not to be looked down on!
 
@@ -33,7 +33,7 @@ GnuPG documentation. A complete guide on GnuPG usage!
 
 7. [GnuPg Cheat Sheet](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/)<br>
 A cheat sheet for GnuPG. If you forgot gpg commands, this will help a lot!
-
+## Week 03
 8. [Code Grepper](https://www.codegrepper.com/)<br>
 A website where you can find all sorts of codes. Sometimes the answer can be irrelevant, but it's always good to give it a try!
 
