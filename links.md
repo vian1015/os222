@@ -40,6 +40,11 @@ A website where you can find all sorts of codes. Sometimes the answer can be irr
 
 9. [tutorialspoint](https://www.tutorialspoint.com/)<br>
 You can find a lot of materials about OS here. There are also some question example for you to try!
+## Week 04
+10. [javaTpoint](https://www.javatpoint.com/linux-tutorial)<br>
+This website has a linux tutorial! Can be very helpful!
+11. [Udacity](https://www.youtube.com/playlist?list=PLqoiDr4YpRdm_nzFhCDuj74P8ul5z7SdO)<br>
+An interactive video about linux. Videos are very interesting and informative!
 
 <br>
 <hr>
