@@ -43,9 +43,14 @@ You can find a lot of materials about OS here. There are also some question exam
 ## Week 04
 10. [javaTpoint](https://www.javatpoint.com/linux-tutorial)<br>
 This website has a linux tutorial! Can be very helpful!
+
 11. [Udacity](https://www.youtube.com/playlist?list=PLqoiDr4YpRdm_nzFhCDuj74P8ul5z7SdO)<br>
 An interactive video about linux. Videos are very interesting and informative!
-
+## Week 05
+12. [Fireship - Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)<br>
+Helpful information on linux directories command!
+13. [Fireship - C in 100 Seconds](https://www.youtube.com/watch?v=U3aXWizDbQ4)<br>
+Gets you started on C!
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
