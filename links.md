@@ -51,6 +51,11 @@ An interactive video about linux. Videos are very interesting and informative!
 Helpful information on linux directories command!
 13. [Fireship - C in 100 Seconds](https://www.youtube.com/watch?v=U3aXWizDbQ4)<br>
 Gets you started on C!
+## Week 06
+13. [GeeksforGeeks - fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+A detailed guide to C's fork. Very helpful for understanding fork!
+14. [Section](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
+Another website explaining fork().
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
