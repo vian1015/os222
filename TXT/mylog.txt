@@ -108,3 +108,16 @@ ZCZC W07 15   L44 TXT/myscript.sh related.
 ZCZC W07 5    L45 TXT/SHA256SUM related
 ZCZC W07 100  L73 Gaming including Board Games.
 ZCZC W07 30   L80 Watching: Movie, Youtube, TV, Netflix , etc.
+ZCZC W08 60   L01 SCELE related
+ZCZC W08 200  L02 ZOOM meetings related
+ZCZC W08 30   L03 Github related
+ZCZC W08 8    L05 QUIZ
+ZCZC W08 120  L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W08 210   L09 Weekly Assignments
+ZCZC W08 10   L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W08 10   L41 TXT/mylog.txt related
+ZCZC W08 10   L43 TXT/myrank.text related, including peer review.
+ZCZC W08 15   L44 TXT/myscript.sh related.
+ZCZC W08 5    L45 TXT/SHA256SUM related
+ZCZC W08 90  L73 Gaming including Board Games.
+ZCZC W08 60   L80 Watching: Movie, Youtube, TV, Netflix , etc.
